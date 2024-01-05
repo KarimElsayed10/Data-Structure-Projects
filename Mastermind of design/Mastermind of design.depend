@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1704413862 source:e:\c++ projects\mastermind of design\main.cpp
+	<bits/stdc++.h>
+	<SmartFactoryQueue.h>
+	<ProductStack.h>
+
+1704414185 e:\c++ projects\mastermind of design\include\smartfactoryqueue.h
+	<Queue.h>
+	<ProductStack.h>
+
+1704414221 e:\c++ projects\mastermind of design\include\queue.h
+	<SubLinkedList.h>
+
+1704414236 e:\c++ projects\mastermind of design\include\sublinkedlist.h
+	<bits/stdc++.h>
+
+1704414215 e:\c++ projects\mastermind of design\include\productstack.h
+	<Stack.h>
+
+1704414230 e:\c++ projects\mastermind of design\include\stack.h
+	<SubLinkedList.h>
+
+1704414131 source:e:\c++ projects\mastermind of design\src\productstack.cpp
+	"ProductStack.h"
+
+1704414140 source:e:\c++ projects\mastermind of design\src\queue.cpp
+	"Queue.h"
+
+1704414147 source:e:\c++ projects\mastermind of design\src\smartfactoryqueue.cpp
+	"SmartFactoryQueue.h"
+
+1704414155 source:e:\c++ projects\mastermind of design\src\stack.cpp
+	"Stack.h"
+
+1704414163 source:e:\c++ projects\mastermind of design\src\sublinkedlist.cpp
+	"SubLinkedList.h"
+
