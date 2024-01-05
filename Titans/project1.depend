@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1698789363 source:g:\datastructure projects\project1\main.cpp
+	<Library.h>
+	<iostream>
+
+1698686108 g:\datastructure projects\project1\include\node.h
+
+1698789284 g:\datastructure projects\project1\include\linkedlist.h
+	<iostream>
+	<Node.h>
+
+1698685965 g:\datastructure projects\project1\include\book.h
+	<iostream>
+
+1698687017 g:\datastructure projects\project1\include\library.h
+	<iostream>
+	<Book.h>
+	<LinkedList.h>
+
+1698687250 source:g:\datastructure projects\project1\src\book.cpp
+	"Book.h"
+	<iostream>
+
+1698503617 source:g:\datastructure projects\project1\src\node.cpp
+	"Node.h"
+
+1698503687 source:g:\datastructure projects\project1\src\linkedlist.cpp
+	"LinkedList.h"
+
+1698687637 source:g:\datastructure projects\project1\src\library.cpp
+	"Library.h"
+
+1698687250 source:g:\datastructure projects\titans\src\book.cpp
+	"Book.h"
+	<iostream>
+
+1698685965 g:\datastructure projects\titans\include\book.h
+	<iostream>
+
+1698687637 source:g:\datastructure projects\titans\src\library.cpp
+	"Library.h"
+
+1698687017 g:\datastructure projects\titans\include\library.h
+	<iostream>
+	<Book.h>
+	<LinkedList.h>
+
+1704411753 g:\datastructure projects\titans\include\linkedlist.h
+	<iostream>
+	<Node.h>
+
+1704411798 g:\datastructure projects\titans\include\node.h
+
+1698503687 source:g:\datastructure projects\titans\src\linkedlist.cpp
+	"LinkedList.h"
+
+1698503617 source:g:\datastructure projects\titans\src\node.cpp
+	"Node.h"
+
